@@ -1,0 +1,71 @@
+*
+{
+	margin: 0px;
+}
+.padre
+{
+	width: 900px;
+	height: 500px;
+	background-color: #FFC300;
+	padding: 50px;
+	margin: 50px;
+}
+.hijo1
+{
+	background-color: #1E710B;
+	width:700px ;
+	height: 400px;
+	padding: 30px;
+	margin: 5px;
+	margin-left: 55px;
+	
+}
+.nieto1
+{
+	width: 650px;
+	height: 350px;
+	background-color: #3DE617;
+	margin-left: 20px;
+	padding: 10px;
+
+}
+.a2
+{
+    width: 600px;
+	height: 300px;
+	background-color: #0B3471;
+	margin-left: 20px;
+	margin-top: 15px;
+	padding: 8px;
+
+}
+.a3
+{
+    width: 550px;
+	height: 250px;
+	background-color: #22BCC1 ;
+	margin-left: 20px;
+	margin-top: 15px;
+	padding: 8px;
+}
+.a4
+{
+    width: 500px;
+	height: 200px;
+	background-color: #F68316 ;
+	margin-left: 20px;
+	margin-top: 15px;
+	padding: 8px;
+}
+.a5
+{
+    width: 450px;
+	height: 150px;
+	background-color: #FF5733;
+	margin-left: 20px;
+	margin-top: 15px;
+	padding: 8px;
+	text-align: center;
+	font-family: cursive;
+
+}
